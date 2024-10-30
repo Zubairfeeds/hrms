@@ -10,3 +10,4 @@ $ bench get-app hrms
 Install the hrms app on the required site by running
 
 $ bench --site <sitename> install-app hrms
+# erpnext
