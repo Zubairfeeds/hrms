@@ -1,0 +1,28 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-03-18 15:51:57.557332",
+ "disable_prepared_report": 0,
+ "disabled": 1,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "json": "{}",
+ "letter_head": "ZFPL",
+ "modified": "2024-03-18 16:03:47.385082",
+ "modified_by": "Administrator",
+ "module": "HR",
+ "name": "DAS",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Attendance",
+ "report_name": "DAS",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Administrator"
+  }
+ ]
+}
